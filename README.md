@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on ... Korea Univ.
-- 🌱 I’m currently learning ... Flutter & NLP(transformer based)
+- 🌱 I’m currently learning ... NLP(transformer based) & Vulnerability detection
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
